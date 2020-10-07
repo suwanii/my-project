@@ -1,5 +1,5 @@
 print("Hello World")
-
+import math
 # Program make a simple calculator
 
 # This function adds two numbers
@@ -21,6 +21,9 @@ def divide(x, y):
 #This function takes the percentage
 def percentage(x):
     return (x*100)/100
+#This function takes the sin of a number
+def getsin(x):
+    return math.sin(x)
 
 print("Select operation.")
 print("1.Add")
