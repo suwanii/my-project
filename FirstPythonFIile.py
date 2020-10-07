@@ -18,6 +18,9 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+#This function takes the percentage
+def percentage(x):
+    return (x*100)/100
 
 print("Select operation.")
 print("1.Add")
@@ -50,3 +53,4 @@ while True:
         print("Invalid Input")
 
 print("I made my first calculator and this is in the first branch")
+
