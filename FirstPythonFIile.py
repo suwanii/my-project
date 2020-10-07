@@ -48,3 +48,5 @@ while True:
         break
     else:
         print("Invalid Input")
+
+print("I made my first calculator and this is in the first branch")
