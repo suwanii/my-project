@@ -24,6 +24,8 @@ def percentage(x):
 #This function takes the sin of a number
 def getsin(x):
     return math.sin(x)
+def getcox(x):
+    return math.cos(x)
 
 print("Select operation.")
 print("1.Add")
