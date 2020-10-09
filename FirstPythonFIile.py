@@ -26,6 +26,9 @@ def getsin(x):
     return math.sin(x)
 def getcox(x):
     return math.cos(x)
+def gettan(x)
+    return math.tan(x)
+    
 
 print("Select operation.")
 print("1.Add")
