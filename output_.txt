@@ -1,0 +1,16 @@
+text	tags
+Jack	B-ORG
+in	I-ORG
+the	I-ORG
+box	I-ORG
+
+Jack	B-ORG
+in	I-ORG
+the	I-ORG
+box	I-ORG
+
+Jack	B-ORG
+in	I-ORG
+the	I-ORG
+box	I-ORG
+
